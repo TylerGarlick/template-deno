@@ -1,4 +1,4 @@
 /** JSDoc for this line */
 export function mode() {
-  return 0;
+  return 0
 }
